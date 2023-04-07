@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying at xdu
-- 🌱 I’m currently learning python,FL,AR,etc
-- 👯 I’m looking FOR Federated Learning AND AR
+- 🔭 I’m currently studying at USTC
+- 🌱 I’m currently learning python etc
+- 👯 I’m looking FOR Federated Learning 
 - 📫 How to reach me: www.blog.hackerjerry.top
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hacker-jerry&count_private=true&show_icons=true&theme=vue)
