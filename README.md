@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently studying at USTC
 - 🌱 I’m currently learning python etc
 - 👯 I’m looking FOR Federated Learning 
-- 📫 How to reach me: www.blog.hackerjerry.top
+- 📫 How to reach me:  yucding AT mail.ustc.edu.cn 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hacker-jerry&count_private=true&show_icons=true&theme=vue)
